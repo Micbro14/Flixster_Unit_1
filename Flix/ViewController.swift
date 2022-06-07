@@ -7,6 +7,8 @@
 
 import UIKit
 
+import AlamofireImage
+
 class ViewController: UIViewController, UITableViewDataSource, UITableViewDelegate{
     
     
@@ -62,7 +64,9 @@ class ViewController: UIViewController, UITableViewDataSource, UITableViewDelega
         
         let baseURL = "https://image.tmdb.org/t/p/w185"
         let posterPath = movie["poster_path"] as! String //changing variable type in Swift
-        let posterURL = URL(string: baseURL + posterPath)
+        let posterUrl = URL(string: baseURL + posterPath)!
+        
+        cell.posterView.af_setImage(withURL: posterUrl)
         
         return cell
     }

@@ -11,7 +11,7 @@
 
 ### App Walkthrough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://i.imgur.com/a7EiFHs.gif" width=250><br>
 
 ### Notes
 - my terminal access was disabled as I utilized a school computer so that made image viewing tricky 

@@ -10,6 +10,8 @@
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
+### App Walkthrough GIF
+
 <img src="https://i.imgur.com/NWuHjOJ.gif" width=250><br>
 
 ### Notes
@@ -26,7 +28,7 @@
 - [ ] (2pt) User can view the app on various device sizes and orientations.
 - [ ] (1pt) Run your app on a real device.
 
-### App Walkthrough GIF
+### App Walkthrough GIFs
 
 <img src="https://i.imgur.com/1ZkXHTE.gif" width=250><br>
 

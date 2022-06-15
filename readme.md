@@ -12,11 +12,14 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/As2oKEM.gif" width=750><br>
+<img src="https://i.imgur.com/lnFvkIb.gif" width=750><br>
 
 ### Notes
 -had to remember to put the "MovieGridCell" as a name in the Collection Reusable View
+
 -had issues with one of the views which required deleting it and relinking it to its dedicated code. Make sure to click on the specific drop down on the view that needs linking
+
+-gifs are a bit of a pain to add on GitHub. have to optimize them on ezgif to under 200 megapixels
 ## Flix Part 1
 
 #### REQUIRED (10pts)

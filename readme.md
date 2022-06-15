@@ -10,14 +10,11 @@
 - [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
-### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
 <img src="https://i.imgur.com/NWuHjOJ.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
-
+-had to remember to put the "MovieGridCell" as a name in the Collection Reusable View
+-had issues with one of the views which required deleting it and relinking it to its dedicated code. Make sure to click on the specific drop down on the view that needs linking
 ## Flix Part 1
 
 #### REQUIRED (10pts)

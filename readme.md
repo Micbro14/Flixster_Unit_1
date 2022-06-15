@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/NWuHjOJ.gif" width=250><br>
+<img src="https://i.imgur.com/1ZkXHTE.gif" width=250><br>
 
 ### Notes
 -had to remember to put the "MovieGridCell" as a name in the Collection Reusable View
